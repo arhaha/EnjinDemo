@@ -1,7 +1,7 @@
 {
     "name": "apple",
     "description": "Lorem ipsum...",
-    "image": "https:\/\/s3.amazonaws.com\/your-bucket\/images\/{id}.png",
+    "image": "http:\/\/codekata.com\/images\/kitten2.jpg",
     "properties": {
         "simple_property": "example value",
         "rich_property": {
